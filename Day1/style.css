@@ -1,0 +1,20 @@
+body 
+{
+background-color: aquamarine;
+}
+table 
+{
+    background-color: black;
+    border-radius: 10px;
+    border-color: blueviolet;
+    border-style: groove;
+    border-width: 10px;
+    color: antiquewhite;
+
+}
+h1 
+{
+    background-color: burlywood;
+    color: black;
+    text-align: center;
+}
